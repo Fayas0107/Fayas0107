@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fayas0107
-- 👀 I’m interested in learning windows apache server working.
-- 🌱 I’m currently learning windows apache server.
-- 💞️ I’m looking to collaborate on apache server.
+- 👀 I’m interested in learning Github for more knowledge.
+- 🌱 I’m currently learning Github repository.
+- 💞️ I’m looking to collaborate about Github.
 - 📫 How to reach me fayasthedevil@gmail.com
 
 <!---
