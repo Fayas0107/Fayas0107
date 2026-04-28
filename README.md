@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fayas0107
 - 👀 Professional Linux Administrator
-- 🌱 Experience in Libyx and Trend Micro Security.
-- 💞️ Love troubleshoot technical issues.
+- 🌱 Experience in Linux and Trend Micro Security.
+- 💞️ Love to troubleshoot technical issues.
 - 📫 How to reach me fayasahmrd611@gmail.com
 
 <!---
